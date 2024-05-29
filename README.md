@@ -1,7 +1,11 @@
-## Hi there 👋
+ # Olá, seja bem vindo ao meu perfil! 😃
 
 <!--
-**esheleybelmiro/esheleybelmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- É um prazer te ver aqui 🙂
+Me chamo Esheley🙂
+Sou estudante da 3 série do Ensino Médio 
+
+
 
 Here are some ideas to get you started:
 
